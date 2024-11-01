@@ -4,7 +4,7 @@ This is a simple To-Do List application with an Express.js backend and a HTML5/C
 
 <img src="preview.png" alt="screenshot of the Website" width="900" height= "600"/>
 
-## Features (CUDA)
+## Features (CRUD)
 
 - **Create Tasks**: Create new tasks, which appear at the top of the list.
 - **Update Tasks**: Edit existing tasks directly within the list.
