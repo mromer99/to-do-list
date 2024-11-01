@@ -23,7 +23,7 @@ todo-app/
 ├── backend/
 │   └── server.js        # Backend server with Express API routes
 │
-├── frontend/
+├── docs/                # Frontend
 │   ├── index.html       # Main HTML file for the frontend
 │   ├── script.js        # JavaScript file for frontend functionality
 │   └── style.css        # CSS file for frontend styling
@@ -51,7 +51,7 @@ todo-app/
       node server.js
       ```
    
-  - Open`frontend/index.html`in your browser.
+  - Open`docs/index.html`in your browser.
 
 
 ## Usage
