@@ -2,6 +2,8 @@
 
 This is a simple To-Do List application with an Express.js backend and a HTML5/CSS/JavaScript frontend. Users can do basic CUDA actions, like add, edit, complete, and delete tasks. Open tasks appear at the top of the list in oldest-first order, while completed tasks are moved to the bottom in oldest-first order.
 
+<img src="preview.png" alt="Alt text" width="900" height= "600"/>
+
 ## Features (CUDA)
 
 - **Create Tasks**: Create new tasks, which appear at the top of the list.
