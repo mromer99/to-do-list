@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors());
 
 // Serve static files from the frontend directory
-app.use(express.static(path.join(__dirname, '../frontend')));
+app.use(express.static(path.join(__dirname, '../docs')));
 
 // In-memory storage for tasks
 let tasks = [];
