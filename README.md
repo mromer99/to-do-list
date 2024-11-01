@@ -65,7 +65,7 @@ todo-app/
 
 ## API Overview
 
-- **POST** `/tasks: Add a task.
+- **POST** `/tasks:` Add a task.
 - **GET** `/tasks:` Retrieve sorted tasks.
 - **PATCH** `/tasks/:id:` Mark task as completed.
 - **PATCH** `/tasks/:id/edit:` Edit task description.
